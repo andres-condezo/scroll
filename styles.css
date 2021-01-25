@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #efedd6;
+  background-color: #493323;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,10 +17,11 @@ body {
 
 h1 {
   margin: 40px;
+  color: #ffdf91;
 }
 
 .box {
-  background-color: steelblue;
+  background-color: #91684a;
   color: #fff;
   display: flex;
   align-items: center;
@@ -36,7 +37,7 @@ h1 {
 
 .box:nth-of-type(even) {
   transform: translateX(-400%);
-    background-color: aqua;
+    background-color: #eaac7f;
 }
 
 .box.show {
