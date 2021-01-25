@@ -15,7 +15,7 @@
 
 **Tools:**
 
-- Neo Vim
+- WebStorm
 
 > This project forms part of "50 Projects In 50 Days" series.
 
